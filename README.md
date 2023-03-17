@@ -4,4 +4,4 @@ After spending some time away from programming, here's a quick evening project I
 
 
 
-![Coin counter image](https://github.com/ishanswali/CoinCounter/blob/main/CoinImg.png?raw=true
+![Coin counter image](https://github.com/ishanswali/CoinCounter/blob/main/CoinImg.png?raw=true)
